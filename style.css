@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+header,
+section,
+footer {
+  margin: 0;
+  padding: 1px;
+}
+section,
+header {
+  background-color: rgb(81, 216, 207);
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.name {
+  color: black;
+  font-family: "Lobster", cursive;
+  margin-left: 30px;
+  font-weight: 900;
+  font-size: 30px;
+  margin-top: -18px;
+}
+.tiles {
+  float: right;
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  margin-right: 0px;
+  position: relative;
+  top: -140px;
+  padding-bottom: 20px;
+}
+.tiles a {
+  margin: 20px;
+  color: black;
+  text-decoration: none;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.landingpage .image {
+  margin-left: 1100px;
+  margin-right: 80px;
+  margin-top: -300px;
+  padding: 1px;
+}
+.landingpage .hello {
+  color: black;
+  margin-top: 30px;
+  margin-left: 150px;
+  font-size: 35px;
+}
+.landingpage .myname {
+  color: black;
+  font-size: 40px;
+  margin-top: -25px;
+  margin-left: 150px;
+  font-weight: 900;
+  font-family: "Abril Fatface", cursive;
+}
+.landingpage .description {
+  color: black;
+  font-size: 30px;
+  margin-left: 150px;
+  font-weight: 500;
+  margin-top: -10px;
+}
+.landingpage .find {
+  color: black;
+  font-size: 25px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.social {
+  margin-top: -175px;
+  margin-left: 130px;
+}
+.ig,
+.ln,
+.tt,
+.gh {
+  margin-left: 20px;
+  border-radius: 20px;
+}
+.hire a {
+  margin-top: 52px;
+  margin-left: 150px;
+  background-color: red;
+  border-radius: 40px;
+  border: 0;
+  font-family: "Acme", sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  padding: 16px 31px;
+  text-decoration: none;
+}
+.pf a {
+  margin-top: 0px;
+  margin-left: 350px;
+  background-color: black;
+  border-radius: 40px;
+  border: 0;
+  font-family: "Acme", sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  padding: 16px 31px;
+  text-decoration: none;
+}
+
+.pf {
+  margin-top: -57px;
+}
+
+.first a {
+  margin-right: 300px;
+  padding-bottom: 30px;
+}
+.second a {
+  margin-right: 100px;
+  margin-left: 80px;
+  margin-top: px;
+}
+.third a {
+  margin-left: 400px;
+  margin-right: 40px;
+  margin-top: -200px;
+}
+
+.second {
+  margin-top: -120px;
+}
+
+.third {
+  margin-top: -33px;
+}
+
+.first {
+  background-color: red;
+  width: 120px;
+  height: 160px;
+  padding-top: 55px;
+  padding-bottom: 25px;
+  margin-bottom: 20px;
+}
